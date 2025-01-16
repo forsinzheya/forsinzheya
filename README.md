@@ -1,5 +1,5 @@
 ## Welcome to my Realm of Curiosity
-_Hi, this is my GitHub codespace. A collection of codes, where fun stuff awaits._
+Hi, this is my _**GitHub codespace**_. A collection of codes, where fun stuff awaits.
 <!--
 **forsinzheya/forsinzheya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
